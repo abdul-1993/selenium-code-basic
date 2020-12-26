@@ -1,0 +1,14 @@
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class Demo {
+
+	public static void main(String[] args) {
+		
+		//ChromeDriver driver = new ChromeDriver();   // object of the chrome webdriver,
+		WebDriver driver = new ChromeDriver();   //webdriver is an interface , can now implement the methods of webdriver
+		
+
+	}
+
+}
